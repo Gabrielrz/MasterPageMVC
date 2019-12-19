@@ -21,7 +21,7 @@
 
   </head>
   <body>
-    <p>nota editable para el control de versiones</p>
+    <p>nota editable para el control de versiones .....editando desde el repositorio remoto</p>
     <div id="contenedor_general">
     <?php
     include_once "view/menu.php";
